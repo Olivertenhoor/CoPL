@@ -1,8 +1,9 @@
 # CoPL
 
-This assignment is made by Hanna Straathof (s3001202), Oliver ten Hoor (s2984113) and Domen van Soest (s2962632)
+This assignment is made by Hanna Straathof (s3001202), Oliver ten Hoor (s2984113), and Domen van Soest (s2962632)
 
 ## To do uitleg over hoe te compilen en uitzoeken hoe dat via de command line kan
+Vanaf Java versie 11 hoef je de files niet te compilen als ze in dezelfde directory staan. Er kan dan gebruik gemaakt worden van java MainClass om zowel de files te compilen en te runnen, hiervoor is dus wel een versie van Java hoger dan 11 nodig.  
 
 ## To do uitleg over of het programma helemaal werkt
 
