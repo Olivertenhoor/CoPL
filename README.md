@@ -5,6 +5,7 @@ This assignment is made by Hanna Straathof (s3001202), Oliver ten Hoor (s2984113
 ## To do uitleg over hoe te compilen en uitzoeken hoe dat via de command line kan
 Vanaf Java versie 11 hoef je de files niet te compilen als ze in dezelfde directory staan. Er kan dan gebruik gemaakt worden van java MainClass om zowel de files te compilen en te runnen, hiervoor is dus wel een versie van Java hoger dan 11 nodig.  
 
+Anders met de command javac MainClass.java om te compilen en java MainClass om te runnen.
 ## To do uitleg over of het programma helemaal werkt
 
 ## To do uitleg over hoe het programma werkt
